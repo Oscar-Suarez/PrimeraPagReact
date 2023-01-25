@@ -1,0 +1,16 @@
+.CarCont{
+    margin-top: 50px;
+}
+
+.Carousel{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imgCarousel {
+    width: 500px;
+    height: 500px;
+  }
