@@ -1,3 +1,4 @@
+//Imports de ReactStrap
 import { Container } from "reactstrap";
 import React, { useState } from 'react';
 import {
@@ -8,6 +9,8 @@ import {
   CarouselCaption,
 } from 'reactstrap';
 import "bootstrap/dist/css/bootstrap.min.css";
+
+//Vínculo css
 import "../Styles/PrinCont.css";
 
 //Imágenes del caroussel

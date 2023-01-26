@@ -1,0 +1,29 @@
+.ContTattoo{
+    margin-bottom: -50px;
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Card1{
+    width: 350px;
+    height: 380px;
+}
+
+#ImgTattoo{
+    border-radius: 15px;
+    width: 350px;
+    height: 380px;
+}
+
+.modal-lg {
+    max-width: 2000px;
+}
+
+#ImgTattooModal{
+    height: 440px;
+    border-radius: 15px;
+
+}

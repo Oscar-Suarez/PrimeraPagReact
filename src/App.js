@@ -1,6 +1,7 @@
 import Navbar from "./Components/Navbar";
 import ImgPrincipal from "./Components/ImgPrincipal";
 import PrinCont from "./Components/PrinCont";
+import TattooCont from "./Components/TattooCont"
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <Navbar/>
     <ImgPrincipal/>
     <PrinCont/>
+    <TattooCont/>
 </>
   );
 }
